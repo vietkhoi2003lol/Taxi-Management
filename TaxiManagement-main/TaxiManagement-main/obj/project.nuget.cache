@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+wxTdN5oyffl+cyA8HAEg9qBCSYViGmCouksB2RF8SwoI6qdIrv8DS5+V8L+BonTlxpeJF3+tYcYLAxPjYSoA==",
+  "success": true,
+  "projectFilePath": "D:\\TCBen\\OneDrive - buv.edu.vn\\SDAM2\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManagementAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khoi.tnv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
